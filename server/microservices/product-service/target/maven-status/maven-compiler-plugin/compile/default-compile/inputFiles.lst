@@ -1,0 +1,7 @@
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/dto/ProductRequest.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/dto/ProductResponse.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/ProductServiceApplication.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/repository/ProductRepository.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/model/Product.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/controller/ProductController.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/product-service/src/main/java/com/binarytrader_90/productservice/service/ProductService.java

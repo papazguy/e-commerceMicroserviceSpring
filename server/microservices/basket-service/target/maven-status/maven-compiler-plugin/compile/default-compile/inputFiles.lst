@@ -1,0 +1,10 @@
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/model/Basket.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/controller/BasketController.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/repository/BasketRepository.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/dto/ResponseBasket.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/model/BasketItem.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/dto/BasketRequest.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/dto/BasketItemRequest.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/config/RedisConfig.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/BasketServiceApplication.java
+/Users/richardoteri/Projects/fullstack/e-commerceMicroserviceSpring/server/microservices/basket-service/src/main/java/com/binarytrader_90/basketservice/service/BasketService.java
